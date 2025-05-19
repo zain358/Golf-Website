@@ -1,4 +1,3 @@
-/* ===( Creative 💌 : CODE AASHU )=== */
 const cursor = document.querySelector("#cursor");
 const blur = document.querySelector("#blur-cr");
 document.addEventListener("mousemove",function(dets){
